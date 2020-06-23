@@ -7,9 +7,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/arlyon/tomato_exporter/pkg/handlers"
+	"github.com/amikula/tomato_exporter/pkg/handlers"
 
-	c "github.com/arlyon/tomato_exporter/configs"
+	c "github.com/amikula/tomato_exporter/configs"
 )
 
 func handlerFavicon(w http.ResponseWriter, r *http.Request) {}

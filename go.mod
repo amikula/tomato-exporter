@@ -1,4 +1,4 @@
-module github.com/arlyon/tomato_exporter
+module github.com/amikula/tomato_exporter
 
 go 1.13
 

@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"strings"
 
-	c "github.com/arlyon/tomato_exporter/configs"
+	c "github.com/amikula/tomato_exporter/configs"
 )
 
 // Bandwidth is a handler to publish bandwidth metrics in prometheus format
